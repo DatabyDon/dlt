@@ -14,6 +14,7 @@
 
 This repo is where I'm following along with dlt's official course material in Jupyter. Each lesson gets its own notebook, run and annotated as I go.
 
+- **Fundamentals course (Academy):** [dlthub.learnworlds.com/course/dlt-fundamentals](https://dlthub.learnworlds.com/course/dlt-fundamentals)
 - **Fundamentals course:** [dlthub.com/docs/tutorial/fundamentals-course](https://dlthub.com/docs/tutorial/fundamentals-course)
 - **Advanced course:** [dlthub.com/docs/tutorial/advanced-course](https://dlthub.com/docs/tutorial/advanced-course)
 
