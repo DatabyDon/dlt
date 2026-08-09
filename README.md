@@ -58,7 +58,7 @@ This repo is where I'm following along with dlt's official course material in Ju
 ## 📁 Repo Structure
 
 <ul>
-<li>📂 <b>dlt-learning-series</b>
+<li>📂 <b>dlt</b>
   <details>
   <summary>📁 <b>fundamentals</b></summary>
   <ul>
